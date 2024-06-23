@@ -1,6 +1,23 @@
-# number_game
+# Number Maze Solver
 
-A new Flutter project.
+Number Maze Solver is a Flutter application that offers a challenging number-based puzzle game experience. The game involves grid-based movement, obstacle traversal, number placement, and different search algorithms for puzzle resolution.
+
+![Gameplay Screenshot 1](/path/to/screenshot1.png)
+![Gameplay Screenshot 2](/path/to/screenshot2.png)
+
+## Features
+
+- Grid-Based Puzzle: Navigate through a grid while solving number-based puzzles.
+- Obstacle Traversal: Overcome obstacles and walls strategically placed on the grid.
+- Number Placement: Place numbers on the grid to progress through the puzzles.
+- Search Algorithms: Utilize algorithms like Depth-First Search (DFS), Breadth-First Search (BFS) to solve complex puzzles.
+
+## Installation
+
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/AryaRaj76438/nodescape
+
 
 ## Getting Started
 
